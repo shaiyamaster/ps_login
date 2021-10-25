@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<CheatTable CheatEngineTableVersion="34">
+<CheatTable CheatEngineTableVersion="38">
   <CheatEntries>
     <CheatEntry>
       <ID>29</ID>
-      <Description>"calistir"</Description>
+      <Description>"aio"</Description>
       <Options moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1"/>
       <LastState Value="" RealAddress="00000000"/>
       <GroupHeader>1</GroupHeader>
